@@ -8,7 +8,6 @@ import java.util.Queue;
 public class BinaryTreeLinkedlistImpl {
 	private class BinaryNode{
 		private int value;
-	
 		private BinaryNode left;
 		private BinaryNode right;
 		public int getValue() {
